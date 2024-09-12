@@ -1,7 +1,7 @@
 import React from 'react';
 import { Image, Container, Header } from 'semantic-ui-react';
-import styles from './Banner.module.css'; // Import CSS module
-import bannerImg from './path-to-banner-image.jpg'; // You can use picsum or any other image source
+import styles from './Banner.module.css'; 
+import bannerImg from './path-to-banner-image.jpg';
 
 const Banner = () => {
   return (
